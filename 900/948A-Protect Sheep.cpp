@@ -1,5 +1,5 @@
 // 把所有'.'換成是dog, 再去看每隻wolf附近有沒有sheep, 
-// 有的話就輸出No, 全部wolf都沒有的ˋ話就輸出Yes
+// 有的話就輸出No, 全部wolf都沒有的話就輸出Yes
 #include<iostream>
 using namespace std;
 
